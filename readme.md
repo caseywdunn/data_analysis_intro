@@ -2,9 +2,7 @@
 
 This is a series of resources and tutorials for modern practices in data analysis. It is geared toward biologists.
 
-## Data analysis essentials
-
-If data analysis and computation is going to be a significant part of your research, I strongly suggest familiarizing yourself with the following tools and topics:
+If data analysis and computation is going to be a significant part of your research, I strongly suggest familiarizing yourself with the following tools and topics. The materials here are designed as an on-ramp to these topics.
 
 - Getting around at the command line. 
 - Version control with git and GitHub
@@ -39,3 +37,32 @@ Before the first class, please do the following:
 Optional:
 - If on Windows, install Windows Subsystem for Linux (WSL) - https://docs.microsoft.com/en-us/windows/wsl/install .
 - If you use R, install R https://cran.r-project.org/ 
+
+## Topics
+
+### Data visualization
+
+See `visualizaiton` in this repository. For a broader discussion, see the class I did on [interacting with data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus).
+
+### Machine learning
+
+This video introduces the basic concepts of neural networks - https://www.youtube.com/watch?v=aircAruvnKk
+
+[This](https://kili-technology.com/data-labeling/machine-learning/neural-network-architecture-all-you-need-to-know-as-an-mle-2023-edition) is a good overview of network architectures.
+
+This is the paper that introduced the Transformer and kicked off extensive progress in generative AI - https://arxiv.org/abs/1706.03762
+
+#### Generative AI
+
+A leaderboard of chatbots - https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+
+To install and run your own chatbot locally, first install [ollama](https://ollama.com/)
+
+For a small model that can run on most laptops, try:
+
+    ollama run llama2
+
+If you have 40GB of disk space to spare, at least 64GB of RAM, and a good GPU, try:
+
+    ollama run dolphin-mixtral:latest
+
