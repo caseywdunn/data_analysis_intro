@@ -8,6 +8,7 @@ If data analysis and computation is going to be a significant part of your resea
 
 - Getting around at the command line. 
 - Version control with git and GitHub
+- Regular expressions for text processing
 - Python and/or R.
 - If Python, then also:
   - Jupyter notebooks(https://jupyter.org/)
@@ -16,6 +17,7 @@ If data analysis and computation is going to be a significant part of your resea
 - If R, then also:
   - [Quarto](https://quarto.org/docs/computations/r.html) notebooks
   - Tidyverse libraries
+- [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), a simple markup language for formatting in plain text.
 - [VS Code](https://code.visualstudio.com). I strongly suggest using this as your primary code editor, regardless of whether you use Python, R, or other languages.
 - Using generative AI tools like [GitHub Copilot](https://github.com/features/copilot), ChatGPT, and Google Gemini to help learn, review, and write code.
 
@@ -34,3 +36,6 @@ Before the first class, please do the following:
 - Install VS Code - https://code.visualstudio.com .
 - Install miniconda - https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html .
 
+Optional:
+- If on Windows, install Windows Subsystem for Linux (WSL) - https://docs.microsoft.com/en-us/windows/wsl/install .
+- If you use R, install R https://cran.r-project.org/ 
