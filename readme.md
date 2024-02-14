@@ -42,7 +42,18 @@ Optional:
 
 ### Data visualization
 
-See `visualizaiton` in this repository. For a broader discussion, see the class I did on [interacting with data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus).
+See `visualizaiton` in this repository. 
+
+For a broader discussion, see the class I did on [interacting with data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus).
+
+Resources:
+
+Shneiderman 1996, http://www.mat.ucsb.edu/~g.legrady/academic/courses/11w259/schneiderman.pdf - "Visual Information-Seeking Mantra: overview first, zoom and filter, then details on demand."
+Tufte, ER (2001). The Visual Display of Quantitative Information, 2nd edition.
+
+### Measurement theory
+
+Houle et al (2011) Measurement and Meaning in Biology. https://www.journals.uchicago.edu/doi/10.1086/658408
 
 ### Machine learning
 
