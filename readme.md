@@ -40,6 +40,41 @@ Optional:
 
 ## Topics
 
+### Languages
+
+Excellent free books are available for the languages we will discuss.
+
+#### Python
+
+[Python Data Science Handbook](https://jakevdp.github.io/).
+
+#### R
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+#### Rust
+
+[The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+
+### VS Code resources
+
+#### For python
+
+https://code.visualstudio.com/docs/languages/python
+
+https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+
+#### For R
+
+https://code.visualstudio.com/docs/languages/r
+
+https://quarto.org/docs/tools/vscode.html
+
+#### Copilot
+
+
+
 ### Data visualization
 
 See `visualizaiton` in this repository. 
