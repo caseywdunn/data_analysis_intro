@@ -32,6 +32,7 @@ Before the first class, please do the following:
 - Get a github account - https://github.com/ . Make sure your academic email is registered with the account, it can be primary or secondary.
 - Activate your free academic GitHub copilot account. It may take a few days to activate, so be sure to do it well before class - https://github.blog/2022-09-08-github-copilot-now-available-for-teachers/ .
 - Install VS Code - https://code.visualstudio.com .
+- Install and configure the github copilot extension for VS Code, as described at https://code.visualstudio.com/docs/copilot/overview . Watch the video and try it out to test your installation.
 - Install miniconda - https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html .
 
 Optional:
@@ -73,7 +74,7 @@ https://quarto.org/docs/tools/vscode.html
 
 #### Copilot
 
-
+https://code.visualstudio.com/docs/copilot/overview
 
 ### Data visualization
 

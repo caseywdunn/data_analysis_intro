@@ -1,5 +1,5 @@
 # Custom
-
+.DS_store
 analyses/iris_working.ipynb
 visualization/data_visualization_handout_files
 
